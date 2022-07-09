@@ -1,10 +1,20 @@
 position,title
 Q108130107,Supreme Leader
+Q112999416,Deputy Leader
 Q1140706,President
 Q3246669,Vice President
 Q532240,Prime Minister
 Q112999100,Deputy Prime Minister
-Q108104065,Foreign Minister
+Q112999440,Minister of Defence
+Q108104065,Minister of Foreign Affairs
+Q112999443,"Minister of Frontiers, Nations and Tribal Affairs"
+Q112999598,Minister of Higher Education
+Q112999545,Minister of Housing and Urban Development
+Q112999531,Minister of the Interior
+Q112999610,Minister of Justice
+Q112999523,Minister for Refugees
+Q112999422,Minister of Transport and Civil Aviation
+Q112999588,Minister of Water and Energy
 Q61705914,Speaker of the House of Elders
 Q61715214,Speaker of the House of the People
 Q65051130,Chief of General Staff
