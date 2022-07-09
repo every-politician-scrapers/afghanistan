@@ -1,1 +1,6 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q4689073,Afghan Interim Administration,2001-12-22,11,,,2002-07-13,11,,,Q427941,Islamic Emirate of Afghanistan,Q56315907,Afghan Transitional Administration,,,,
+,Q56315907,Afghan Transitional Administration,2002-07-13,11,,,2004-12-07,11,,,Q4689073,Afghan Interim Administration,Q5453126,First Karzai cabinet,,,,
+,Q5453126,First Karzai cabinet,2004-12-07,11,,,2009-11-19,11,,,Q56315907,Afghan Transitional Administration,Q7443384,Second Karzai cabinet,,,,
+,Q7443384,Second Karzai cabinet,2009-11-19,11,,,2014-09-29,11,,,Q5453126,First Karzai cabinet,Q28223873,Ghani cabinet,,,,
+,Q28223873,Ghani cabinet,2014-09-29,11,,,2021-08-15,11,,,Q7443384,Second Karzai cabinet,Q427941,Islamic Emirate of Afghanistan,,,,
