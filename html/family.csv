@@ -1,0 +1,13 @@
+id,name,relationship,relative,relativename
+Q172388,Ashraf Ghani,child,Q1896600,Mariam Ghani
+Q172388,Ashraf Ghani,spouse,Q18198028,Rula Ghani
+Q188667,Burhanuddin Rabbani,child,Q7403481,Salahuddin Rabbani
+Q188667,Burhanuddin Rabbani,relative,Q218863,Ahmad Zia Massoud
+Q193968,Mohammed Omar,child,Q24572400,Mohammad Yaqoob
+Q193968,Mohammed Omar,sibling,Q108067769,Abdul Manan Omari
+Q43944,Hamid Karzai,father,Q4665255,Abdul Ahad Karzai
+Q43944,Hamid Karzai,sibling,Q14972445,Qayum Karzai
+Q43944,Hamid Karzai,sibling,Q400858,Ahmed Wali Karzai
+Q43944,Hamid Karzai,sibling,Q6734481,Mahmud Karzai
+Q43944,Hamid Karzai,spouse,Q8068465,Zeenat Karzai
+Q971952,Ghulam Haider Hamidi,child,Q108107510,Rangina Hamidi
