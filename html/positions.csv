@@ -1,10 +1,20 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q108130107,Leader of the Islamic Emirate of Afghanistan,Q889,Q889,,,1996-04-04,,,,Leader of the Islamic Emirate of Afghanistan
+Q112999416,Deputy Leader of the Islamic Emirate of Afghanistan),Q889,Q889,,,,,,,
 Q1140706,President of Afghanistan,Q889,Q889,Q3246669,,2002-06-11,,,,President of Afghanistan
 Q3246669,Vice President of Afghanistan,Q889,Q889,,,1973-07-17,,,,Vice President of Afghanistan
 Q532240,Prime Minister of Afghanistan,Q889,Q889,,,2021-09-07,2001-11-13,,,Prime Minister of Afghanistan
 Q112999100,Deputy Prime Minister of Afghanistan,Q889,Q889,,,,,,,
+Q112999440,Afghan Minister of Defense,,Q889,,,,,,,
 Q108104065,Foreign Minister of Afghanistan,Q889,Q889,,,,,,,
+Q112999443,"Minister of Frontiers, Nations and Tribal Affairs",,Q889,,,,,,,
+Q112999598,Minister of Higher Education,,Q889,,,,,,,
+Q112999545,Minister of Housing and Urban Development of Afghanistan,,Q889,,,,,,,
+Q112999531,Minister of the Interior Islamic Emirate of Afghanistan (2021),,Q889,,,,,,,
+Q112999610,Minister of Justice,,Q889,,,,,,,
+Q112999523,Minister for Refugees,Q889,Q889,,,,,,,
+Q112999422,Minister of Transport and Civil Aviation,,Q889,,,,,,,
+Q112999588,Minister of Water and Energy Islamic Emirate of Afganistan,,Q889,,,,,,,
 Q61705914,Speaker of the House of Elders (Afghanistan),Q889,Q889,,,,,,,
 Q61715214,Speaker of the House of the People (Afghanistan),Q889,Q889,,,,,,,
 Q65051130,Chief of General Staff,Q889,Q889,,,,,,,Chief of General Staff (Afghanistan)
