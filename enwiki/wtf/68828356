@@ -1,0 +1,150 @@
+{
+  "title": "Muhammad Yousuf Wafa",
+  "pageID": 68828356,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Taliban governors",
+    "Governors of Kandahar Province",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Haji Mohammad Yousuf Wafa (حاجي محمد یوسف وفا) is an Afghan Taliban politician who is currently serving as Governor of Kandahar Province since August 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taliban"
+                },
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "List of governors of Kandahar"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kandahar Province"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Haji Mohammad Yousuf Wafa"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Governor of Kandahar Province, Afghanistan",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Haji Muhammad Yousuf Wafa حاجي محمد یوسف وفا"
+          },
+          "office": {
+            "text": "Governor of Kandahar",
+            "links": [
+              {
+                "text": "Governor of Kandahar",
+                "type": "internal",
+                "page": "List of governors of Kandahar"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "August 2021"
+          },
+          "president": {
+            "text": "Hibatullah Akhundzada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hibatullah Akhundzada"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hasan Akhund",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hasan Akhund"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Rohullah Khanzada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rohullah Khanzada"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Afghanistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Afghanistan"
+              }
+            ]
+          },
+          "profession": {
+            "text": "politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nunn.asia/191652/%d8%af-%da%ab%d9%84-%d8%a2%d8%ba%d8%a7-%d8%b4%db%8c%d8%b1%d8%b2%d9%8a-%d9%be%d9%87-%d9%85%d8%b4%d8%b1%db%8d-%da%a9%d9%86%d8%af%d9%87%d8%a7%d8%b1%d9%8a-%d9%85%d8%b4%d8%b1%d8%a7%d9%86-%d9%be%d9%87/",
+          "title": "د ګل آغا شیرزي په مشرۍ کندهاري مشران په کندهار ښار کې د جګړې د بندولو هڅې کوي",
+          "date": "4 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://pajhwok.com/2021/09/26/pakistan-creates-problems-for-transit-on-chaman-boldak-route-traders/",
+          "title": "Pakistan creates problems for transit on Chaman-Boldak route: Traders",
+          "date": "26 September 2021",
+          "last1": "Naadem",
+          "first1": "Basher Ahmad",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://pajhwok.com/ps/2021/09/26/traders-stop-boldak-chaman-transit-problems/",
+          "title": "سوداګر: که د بولدک- چمن پر لار د ترانزیټ ستونزې حل نه شي خپلې سوداګریزې چارې دروو",
+          "date": "26 September 2021",
+          "last1": "نادم",
+          "first1": "بشير احمد",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "afghanistan-politician-stub"
+        }
+      ]
+    }
+  ]
+}
