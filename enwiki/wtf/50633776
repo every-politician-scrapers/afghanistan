@@ -505,7 +505,7 @@
             "text": "c. 1995"
           },
           "birth_place": {
-            "text": "Panjwayi District, Afghanistan",
+            "text": "Sperwan, Panjwayi District, Afghanistan",
             "links": [
               {
                 "type": "internal",
@@ -567,11 +567,15 @@
             ]
           },
           "residence": {
-            "text": "Kandahar",
+            "text": "Kandahar, Afghanistan",
             "links": [
               {
                 "type": "internal",
                 "page": "Kandahar"
+              },
+              {
+                "type": "internal",
+                "page": "Afghanistan"
               }
             ]
           },
