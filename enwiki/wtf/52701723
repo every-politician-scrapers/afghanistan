@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "General Qadam Shah Shahim is a senior Afghan army officer.",
+              "text": "General Qadam Shah Shahim an Afghan diplomat and former army officer.",
               "links": [
                 {
                   "text": "General",
@@ -73,6 +73,53 @@
             "text": "160717-D-PB383-011 (28366622265).jpg"
           },
           "office": {
+            "text": "Afghan Ambassador to Oman"
+          },
+          "president": {
+            "text": "Ashraf Ghani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ashraf Ghani"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 December 2018"
+          },
+          "office1": {
+            "text": "Afghan Ambassador to Kazakhstan",
+            "links": [
+              {
+                "text": "Afghan Ambassador to Kazakhstan",
+                "type": "internal",
+                "page": "Afghanistan–Kazakhstan relations"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mohammad Farooq Baraki"
+          },
+          "successor1": {
+            "text": "Mohammad Farhad Azimi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Farhad Azimi"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Ashraf Ghani"
+          },
+          "term_start1": {
+            "text": "27 April 2017"
+          },
+          "term_end1": {
+            "text": "2018",
+            "number": 2018
+          },
+          "office2": {
             "text": "Chief of Staff of the Afghan National Army",
             "links": [
               {
@@ -86,7 +133,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor2": {
             "text": "Sher Mohammad Karimi",
             "links": [
               {
@@ -95,7 +142,7 @@
               }
             ]
           },
-          "successor": {
+          "successor2": {
             "text": "Mohammad Sharif Yaftali",
             "links": [
               {
@@ -104,32 +151,14 @@
               }
             ]
           },
-          "president": {
-            "text": "Ashraf Ghani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ashraf Ghani"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 May 2015"
-          },
-          "term_end": {
-            "text": "24 April 2017"
-          },
-          "office2": {
-            "text": "Afghan Ambassador to Kazakhstan"
-          },
-          "predecessor2": {
-            "text": "Mohammad Farooq Baraki"
-          },
           "president2": {
             "text": "Ashraf Ghani"
           },
           "term_start2": {
-            "text": "27 April 2017"
+            "text": "22 May 2015"
+          },
+          "term_end2": {
+            "text": "24 April 2017"
           },
           "birth_date": {
             "text": "1962 (age 60)"
@@ -205,6 +234,15 @@
         }
       ],
       "references": [
+        {
+          "title": "Envoys submit copies of credentials",
+          "url": "https://www.omanobserver.om/article/41761/Local/envoys-submit-copies-of-credentials",
+          "access-date": "24 July 2022",
+          "work": "Oman Daily Observer",
+          "date": "11 December 2018",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "url": "http://www.tolonews.com/afghanistan/ex-army-chief-defense-minister-tipped-ambassadors",
           "title": "Ex-Army Chief, Defense Minister Tipped As Ambassadors",

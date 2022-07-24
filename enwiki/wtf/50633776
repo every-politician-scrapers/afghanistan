@@ -292,11 +292,14 @@
           "caption": {
             "text": "Akhundzada in the 1990s, according to the Taliban"
           },
-          "order": {
-            "text": "3rd"
-          },
           "office": {
-            "text": "Supreme Leader of the Islamic Emirate of Afghanistan"
+            "text": "Supreme Leader of the Islamic Emirate of Afghanistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Supreme Leader of the Islamic Emirate of Afghanistan"
+              }
+            ]
           },
           "primeminister": {
             "text": "Hasan Akhund (acting)",
