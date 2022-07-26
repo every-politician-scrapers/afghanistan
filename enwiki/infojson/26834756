@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of governors of Nimroz"
+      ],
+      "stated_as": "Governor of Nimroz"
+    },
+    "P580": "2001",
+    "P1365": {
+      "links": [
+        "Muhammad Rasul"
+      ],
+      "stated_as": "Muhammad Rasul"
+    },
+    "P582": "2005",
+    "P1366": {
+      "links": [
+        "Ghulam Dastagir Azad"
+      ],
+      "stated_as": "Ghulam Dastagir Azad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Borders & Tribal Affairs (Afghanistan)"
+      ],
+      "stated_as": "Minister of Borders and Tribal Affairs"
+    },
+    "P580": "2005-01",
+    "P582": "2009-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Afghanistan"
+      ],
+      "stated_as": "Minister for Refugees"
+    },
+    "P580": "2009-02",
+    "P582": "2010-08-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jamahir Anwari"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Nimroz"
+      ],
+      "stated_as": "Governor of Nimroz"
+    },
+    "P580": "2010-08-24",
+    "P1365": {
+      "links": [
+        "Ghulam Dastagir Azad"
+      ],
+      "stated_as": "Ghulam Dastagir Azad"
+    },
+    "P582": "2012-09-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mohammad Sarwar Subat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Nimroz"
+      ],
+      "stated_as": "Governor of Nimroz"
+    },
+    "P580": "2021-07-17"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Defense (Afghanistan)"
+      ],
+      "stated_as": "Minister of Defense Islamic Republic of Afghanistan"
+    },
+    "P580": "2017-04-24",
+    "P1365": {
+      "links": [
+        "Abdullah Habibi"
+      ],
+      "stated_as": "Abdullah Habibi"
+    },
+    "P582": "2018-12-23",
+    "P1366": {
+      "links": [
+        "Asadullah Khalid"
+      ],
+      "stated_as": "Asadullah Khalid (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Jordan"
+      ],
+      "stated_as": "Afghan Ambassador to Jordan"
+    },
+    "P580": "2019-09"
+  }
+]

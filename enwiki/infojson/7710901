@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the Islamic Emirate of Afghanistan"
+      ],
+      "stated_as": "Second Deputy Leader of the Islamic Emirate of Afghanistan"
+    },
+    "P580": "2015-07-29",
+    "P1365": {
+      "links": [
+        "Akhtar Mansour"
+      ],
+      "stated_as": "Akhtar Mansour (2010)"
+    },
+    "P582": "2016-05-25",
+    "P1366": {
+      "links": [
+        "Mullah Yaqoob"
+      ],
+      "stated_as": "Mullah Yaqoob"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the Islamic Emirate of Afghanistan"
+      ],
+      "stated_as": "First Deputy Leader of the Islamic Emirate of Afghanistan"
+    },
+    "P580": "2016-05-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hibatullah Akhundzada"
+    },
+    "P582": "2016-05-25"
+  },
+  {
+    "office": {
+      "links": [
+        "Haqqani network"
+      ],
+      "stated_as": "Leader of the Haqqani network"
+    },
+    "P580": "2018",
+    "P1365": {
+      "links": [
+        "Jalaluddin Haqqani"
+      ],
+      "stated_as": "Jalaluddin Haqqani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the Islamic Emirate of Afghanistan"
+      ],
+      "stated_as": "First Deputy Leader of the Islamic Emirate of Afghanistan"
+    },
+    "P580": "2021-08-15",
+    "P1365": {
+      "links": [
+        "Amrullah Saleh",
+        "Vice President of Afghanistan"
+      ],
+      "stated_as": "Amrullah Saleh (as First Vice President)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Interior Minister of Afghanistan"
+      ],
+      "stated_as": "Acting Interior Minister of Afghanistan"
+    },
+    "P580": "2021-09-07",
+    "P1365": {
+      "links": [
+        "Ibrahim Sadr"
+      ],
+      "stated_as": "Ibrahim Sadr (acting)"
+    }
+  }
+]

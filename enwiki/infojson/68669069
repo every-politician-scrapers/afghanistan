@@ -1,0 +1,64 @@
+[
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Afghanistan"
+      ],
+      "stated_as": "Deputy Prime Minister of Afghanistan"
+    },
+    "P580": "1996-09-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2001-11-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Afghanistan)"
+      ],
+      "stated_as": "Foreign Minister of Afghanistan"
+    },
+    "P580": "1998",
+    "P1365": {
+      "links": [
+        "Abdul Jalil (militant)"
+      ],
+      "stated_as": "Abdul Jalil"
+    },
+    "P582": "1999-10-27",
+    "P1366": {
+      "links": [
+        "Wakil Ahmed Muttawakil"
+      ],
+      "stated_as": "Wakil Ahmed Muttawakil"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leadership Council of Afghanistan"
+      ],
+      "stated_as": "Member of the Leadership Council of Afghanistan"
+    },
+    "P580": "2002-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Afghanistan"
+      ],
+      "stated_as": "Acting Prime Minister of Afghanistan"
+    },
+    "P580": "2021-09-07",
+    "P1365": {
+      "links": [
+        "Abdul Kabir"
+      ],
+      "stated_as": "Abdul Kabir (acting, 2001)"
+    }
+  }
+]

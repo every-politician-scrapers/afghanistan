@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief of General Staff (Afghanistan)",
+        "Afghan National Army"
+      ],
+      "stated_as": "Chief of Staff of the Afghan National Army"
+    },
+    "P580": "2015-05-22",
+    "P1365": {
+      "links": [
+        "Sher Mohammad Karimi"
+      ],
+      "stated_as": "Sher Mohammad Karimi"
+    },
+    "P582": "2017-04-24",
+    "P1366": {
+      "links": [
+        "Mohammad Sharif Yaftali"
+      ],
+      "stated_as": "Mohammad Sharif Yaftali"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Afghanistan–Kazakhstan relations"
+      ],
+      "stated_as": "Afghan Ambassador to Kazakhstan"
+    },
+    "P580": "2017-04-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mohammad Farooq Baraki"
+    },
+    "P582": "2018",
+    "P1366": {
+      "links": [
+        "Mohammad Farhad Azimi"
+      ],
+      "stated_as": "Mohammad Farhad Azimi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Afghan Ambassador to Oman"
+    },
+    "P580": "2018-12-11"
+  }
+]

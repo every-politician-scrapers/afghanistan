@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of governors of Kandahar"
+      ],
+      "stated_as": "Governor of Kandahar Province"
+    },
+    "P580": "2015-04-27",
+    "P1365": {
+      "links": [
+        "Toryalai Wesa"
+      ],
+      "stated_as": "Toryalai Wesa"
+    },
+    "P582": "2017-05-20",
+    "P1366": {
+      "links": [
+        "Zalmai Wesa"
+      ],
+      "stated_as": "Zalmai Wesa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Afghanistan Ambassador to Netherlands"
+    },
+    "P580": "2017-05"
+  }
+]
