@@ -1,0 +1,112 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Afghanistan)"
+      ],
+      "stated_as": "Deputy Defence Minister of Afghanistan"
+    },
+    "P580": "1996-09-27",
+    "P582": "1997-04-01",
+    "P1366": {
+      "links": [
+        "Mohammad Fazl"
+      ],
+      "stated_as": "Unknown, eventually Mohammad Fazl"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the Islamic Emirate of Afghanistan"
+      ],
+      "stated_as": "First Deputy Leader of the Islamic Emirate of Afghanistan"
+    },
+    "P580": "2002-05",
+    "P1365": {
+      "links": [
+        "Mohammad Rabbani"
+      ],
+      "stated_as": "Mohammad Rabbani"
+    },
+    "P582": "2010-02-08",
+    "P1366": {
+      "links": [
+        "Akhtar Mansour"
+      ],
+      "stated_as": "Akhtar Mansour"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leadership Council of Afghanistan",
+        "Political Office of the Islamic Emirate of Afghanistan"
+      ],
+      "stated_as": "Head of the Political Office of the Islamic Emirate of Afghanistan"
+    },
+    "P580": "2019-01-24",
+    "P1365": {
+      "links": [
+        "Sher Mohammad Abbas Stanikzai"
+      ],
+      "stated_as": "Sher Mohammad Abbas Stanikzai"
+    },
+    "P582": "2021-08-17",
+    "P1366": {
+      "links": [
+        "Suhail Shaheen"
+      ],
+      "stated_as": "Suhail Shaheen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the Islamic Emirate of Afghanistan"
+      ],
+      "stated_as": "Third Deputy Leader of the Islamic Emirate of Afghanistan"
+    },
+    "P580": "2019-01-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New seat"
+    },
+    "P582": "2019-01-24"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the Islamic Emirate of Afghanistan"
+      ],
+      "stated_as": "Third Deputy Leader of the Islamic Emirate of Afghanistan"
+    },
+    "P580": "2021-08-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Afghanistan"
+      ],
+      "stated_as": "Acting First Deputy Prime Minister of Afghanistan for Economic Affairs"
+    },
+    "P580": "2021-09-07",
+    "P1365": {
+      "links": [
+        "Hasan Akhund"
+      ],
+      "stated_as": "Hasan Akhund (2001)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leadership Council of Afghanistan"
+      ],
+      "stated_as": "Head of the Economic Commission of the Islamic Emirate of Afghanistan"
+    },
+    "P580": "2022"
+  }
+]

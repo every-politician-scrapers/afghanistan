@@ -1,17 +1,17 @@
-pageid,title
-7710901,Sirajuddin Haqqani
-26215955,Abdul Ghani Baradar
-26834756,Abdul Karim Brahui
-44122583,Rula Ghani
-48412330,Gul Agha Ishakzai
-50633776,Hibatullah Akhundzada
-50643213,Mullah Yaqoob
-52249153,Humayun Azizi
-52701723,Qadam Shah Shahim
-66773976,Tariq Shah Bahramee
-68480375,Amir Khan Muttaqi
-68502667,Din Mohammad Hanif
-68558008,Hamdullah Nomani
-68597352,Abdul Baqi Haqqani
-68669069,Hasan Akhund
-68828356,Muhammad Yousuf Wafa
+pageid,title,wikidata,label
+7710901,Sirajuddin Haqqani,Q2246940,Sirajuddin Haqqani
+26215955,Abdul Ghani Baradar,Q317219,Abdul Ghani Baradar
+26834756,Abdul Karim Brahui,Q4665467,Abdul Karim Brahui
+44122583,Rula Ghani,Q18198028,Rula Ghani
+48412330,Gul Agha Ishakzai,Q21662937,Gul Agha Ishakzai
+50633776,Hibatullah Akhundzada,Q24237654,Hibatullah Akhundzada
+50643213,Mullah Yaqoob,Q24572400,Mohammad Yaqoob
+52249153,Humayun Azizi,Q27832633,Humayoon Azizi
+52701723,Qadam Shah Shahim,Q28062393,Qadam Shah Shahim
+66773976,Tariq Shah Bahramee,Q105753084,Tariq Shah Bahrami
+68480375,Amir Khan Muttaqi,Q60499905,Amir Khan Muttaqi
+68502667,Din Mohammad Hanif,Q108130732,Din Mohammad Hanif
+68558008,Hamdullah Nomani,Q108264404,Hamdullah Nomani
+68597352,Abdul Baqi Haqqani,Q108321646,Abdul Baqi Haqqani
+68669069,Hasan Akhund,Q108444479,Mohammad Hasan Akhund
+68828356,Muhammad Yousuf Wafa,Q108712362,Muhammad Yousuf Wafa
